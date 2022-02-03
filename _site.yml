@@ -6,5 +6,7 @@ navbar:
     - text: "Intermediates"
       menu:
         - text: "Intermidiate 1"
-          href: intermidiates/intermidiate-01.html
+          href: intermediates/intermediate-01.html
+        - text: "Intermidiate 2"
+          href: intermediates/intermediate-02.html
 output: html_document
