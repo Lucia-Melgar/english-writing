@@ -1,0 +1,10 @@
+name: english writings
+output_dir: "."
+navbar:
+  title: "English writings"
+  left:
+    - text: "Intermediates"
+      menu:
+        - text: "Intermidiate 1"
+          href: intermidiates/intermidiate-01.html
+output: html_document
